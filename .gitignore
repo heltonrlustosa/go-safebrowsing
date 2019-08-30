@@ -13,3 +13,6 @@
 
 # Enviroment files
 /env*
+
+# Vendor
+/vendor/
