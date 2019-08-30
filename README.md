@@ -1,2 +1,2 @@
 # googleapis
-Library whrited in Go (golang) for the Google Safe Browsing API
+This library whrited in Golang provides client functionality for version 4 of the Google safe browsing API as per: https://developers.google.com/safe-browsing/
